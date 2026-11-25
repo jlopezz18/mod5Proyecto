@@ -1,0 +1,22 @@
+{
+  "name": "proyectomod5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "mongodb-memory-server": "^11.4.0",
+    "mongoose": "^9.13.1",
+    "supertest": "^7.3.2"
+  }
+}
